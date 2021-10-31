@@ -207,7 +207,7 @@ for (let i = 0; i < users.length; i++) {
 // 1)
 let vegetables = ["морковь", "баклажан", "репа", "топинамбур"];
 
-let NEWvegetables = [{word: 'морковь'}, {word: 'помидор'}, {word: 'кабачок'} ];
+let NEWvegetables = [{word: 'морковь'}, {word: 'помидор'}, {word: 'кабачок'}, {word: 'топинамбур'} ];
 
 
 for(let i = 0; i < vegetables.length; i++) {
